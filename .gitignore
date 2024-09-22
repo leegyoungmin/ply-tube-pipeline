@@ -190,4 +190,8 @@ pyrightconfig.json
 
 __pycache/
 
+.master_env
+.pgpool_env
+.slave_env
+
 # End of https://www.toptal.com/developers/gitignore/api/python,linux
