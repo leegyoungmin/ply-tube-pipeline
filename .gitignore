@@ -194,4 +194,6 @@ __pycache/
 .pgpool_env
 .slave_env
 
+.env
+
 # End of https://www.toptal.com/developers/gitignore/api/python,linux
